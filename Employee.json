@@ -1,0 +1,39 @@
+{
+    "emp_details" :[
+     {
+            "Name":"Ankit",
+            "DOB":"09/02/1999" ,
+            "Height":5.5,
+            "City":"Indore",
+            "State":"Madhya Pradesh" 
+     },
+     {
+              "Name":"Govind",
+              "DOB" :"22/08/1998" ,
+            "Height":5.6,
+              "City":"jaipur",
+             "State":"Rajasthan" 
+     },
+     {
+              "Name":"Manish",
+              "DOB":"21/10/1996" ,
+              "Height":6.0,
+              "City":"Bhopal",
+              "State":"Madhya Pradesh" 
+     },
+     {
+              "Name":"Lucky",
+              "DOB":"04/01/2000" ,
+              "Height":5.8,
+              "City":"Gandhinagar",
+              "State":"Gujarat" 
+     },
+     {
+              "Name":"Mahendra",
+              "DOB":"06/05/1999" ,
+              "Height":5.7,
+              "City":"Chandigarh",
+              "State":"Punjab" 
+     }
+     ]
+  }
